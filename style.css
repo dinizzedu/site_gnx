@@ -1,11 +1,9 @@
-body{ margin: 0;}
-table{ 
-background-image: url(bg_hardware.png);
-background-size: cover;
+body {margin: 0;}
+
+table { background-color: #282727;
 width: 100%;
 height: 98vh;
-border-collapse: collapse;
-}
+border-collapse: collapse;}
 
 .td1 {
 background-color:#363535; 
@@ -13,36 +11,22 @@ font-family: "Krona One", sans-serif;
 font-weight: 400;
 font-style: normal;
 color: #4BB748;
-text-align: center;
-}
+text-align: center;}
+
+.rodape {
+background-color: black;
+font-family: "Krona One", sans-serif;
+font-weight: 400;
+font-style: normal;
+color: #656565;}
+
+.img1 {
+text-align: right;}
 
 .txt1 {
 font-family: "Krona One", sans-serif;
 font-weight: 400;
 font-style: normal;
-color: #4BB748;
-text-align: center;
-}
-.txt2{
-    font-family: "Krona One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    color: white;
-    text-align: right;
-}
-
-.txt3 {
-font-family: "Krona One", sans-serif;
-font-weight: 400;
-font-style: normal;
-color: #4BB748;
-text-align: right;
-}
-
-.rodape {
-    background-color: black;
-    font-family: "Krona One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    color: #656565;}
+color: white;
+text-align: center;}
 
