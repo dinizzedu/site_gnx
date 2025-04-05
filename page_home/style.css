@@ -1,0 +1,55 @@
+body{ margin: 0;}
+table {
+    width: 100%;
+    height: 98vh;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #282727;
+    background-size: cover;
+    }
+    
+
+
+
+
+.searchbar { 
+    background-color:#363535;
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #656565;
+    text-align: left;}
+
+.td1 {background-color:#363535;}
+
+
+
+.rodape {
+    background-color: black;
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #656565;}
+
+.krona-one-regular {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4BB748;}
+
+
+.txt1 { text-align: left;}   
+
+.txt2 {font-family: "Krona One", sans-serif;
+    font-style: normal;
+color: white;}
+
+.txt3 {font-family: "Krona One", sans-serif;
+    font-style: normal;
+color: white;}
+    
+  
+
+
+
+
